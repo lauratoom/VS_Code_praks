@@ -1,0 +1,4 @@
+requests.txt
+requests
+pandas
+pyarrow
